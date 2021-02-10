@@ -1,0 +1,2 @@
+# CMakeTut
+learning CMake
